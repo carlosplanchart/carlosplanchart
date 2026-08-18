@@ -7,11 +7,11 @@
 
 - 🔭 I graduated from the <b>Frontend Angular Bootcamp</b> at the IT Academy of BCN Activa - Oct 2022. Check out my [Final Project Here](https://github.com/cplan85/Sprint9-Events-App)!
 
-- 🛠 Currently a member of the Full-Stack Development Team working on the [Smart Locker Software for MegaBlok](https://community-locker.com/)
+- 🛠 Currently a member of the Full-Stack Development Team working on the [The Flagship underwriting Application for Zurich Insurance Group](https[://community-locker.com/](https://www.zurich.es/))
 
-- 🌱 I’m currently learning Advanced full-stack developent with React, Vite, and .NET back-end development implementing the CQRS pattern architecture 
+- 🌱 I’m currently learning AI Agents and MCP Servers with Github Co-pilot, Github Actions, and Docker and Kubernetes 
 
-- 👨‍💻 **Web Developer Portfolio Update** [LINK HERE](https://carlos-planchart-portfolio.netlify.app/). As this site is still in ongoing development, much of my personal website (including architecture work!) still available at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
+- 👨‍💻 **Web Developer Portfolio Update** [LINK HERE](https://carlos-planchart-portfolio.netlify.app/). I'm in the process of bringing in the my old portfolio information from my old website domain to this site. ⚠️WIP 
 
 - 📫 How to reach me **carlos_planchart@live.com**
 
