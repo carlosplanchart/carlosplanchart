@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning AI Agents and MCP Servers with Github Co-pilot, Github Actions, and Docker and Kubernetes 
 
-- 👨‍💻 **Web Developer Portfolio** [LINK HERE](https://carlos-planchart-portfolio.netlify.app/). I'm in the process of bringing in the my old portfolio information from my old website domain to this site. ⚠️WIP 
+- 👨‍💻 **Web Developer Portfolio** [LINK HERE](https://carlos-planchart-portfolio.netlify.app/). I'm in the process of bringing in my old portfolio information from my old website domain to this site. ⚠️WIP 
 
 - 📫 How to reach me **carlos_planchart@live.com**
 
