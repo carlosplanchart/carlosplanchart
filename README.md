@@ -7,7 +7,7 @@
 
 - 🔭 I graduated from the <b>Frontend Angular Bootcamp</b> at the IT Academy of BCN Activa - Oct 2022. Check out my [Final Project Here](https://github.com/cplan85/Sprint9-Events-App)!
 
-- 🛠 Currently a member of the Full-Stack Development Team working on the [The Flagship underwriting Application for Zurich Insurance Group](https[://community-locker.com/](https://www.zurich.es/))
+- 🛠 Currently a member of the Full-Stack Development Team working on the [The Flagship underwriting Application for Zurich Insurance Group](https://www.zurich.es/)
 
 - 🌱 I’m currently learning AI Agents and MCP Servers with Github Co-pilot, Github Actions, and Docker and Kubernetes 
 
