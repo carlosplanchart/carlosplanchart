@@ -1,5 +1,5 @@
 
-<p>Welcome to my page! </br> I'm Carlos, an Architect(buildings!) turned Full-stack developer originally from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>New Haven, Connecticut</b>, with 7 years of experience working in <img src="https://cdn-icons-png.flaticon.com/512/284/284489.png" width="13"/><b> New York City</b> and over 4 years of experience working in full-stack development. I'm currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Barcelona, Spain</b>. </p>
+<p>Welcome to my page! </br> I'm Carlos, an Architect(buildings!) turned full-stack developer originally from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>New Haven, Connecticut</b>, with 7 years of experience working in <img src="https://cdn-icons-png.flaticon.com/512/284/284489.png" width="13"/><b> New York City</b> and over 4 years of experience working as a full-stack developer in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Barcelona, Spain</b>. </p>
 
 </br>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I graduated from the <b>Frontend Angular Bootcamp</b> at the IT Academy of BCN Activa - Oct 2022. Check out my [Final Project Here](https://github.com/cplan85/Sprint9-Events-App)!
 
-- 🛠 Currently a member of the Full-Stack Development Team working on [Zurich's](https://www.zurich.es/) flagship underwriting Application
+- 🛠 Currently a member of [Zurich's](https://www.zurich.es/) Full-Stack Development Team working on their flagship underwriting application
 
 - 🌱 I’m currently learning AI Agents and MCP Servers with Github Co-pilot, Github Actions, and Docker and Kubernetes 
 
