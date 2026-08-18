@@ -1,5 +1,5 @@
 
-<p>Welcome to my page! </br> I'm Carlos, an Architect(buildings!) turned Full-stack developer originally from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>New Haven, Connecticut</b>, with 7 years of experience working in <img src="https://cdn-icons-png.flaticon.com/512/284/284489.png" width="13"/><b>New York City</b>, and currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Barcelona, Spain</b>. </p>
+<p>Welcome to my page! </br> I'm Carlos, an Architect(buildings!) turned Full-stack developer originally from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>New Haven, Connecticut</b>, with 7 years of experience working in <img src="https://cdn-icons-png.flaticon.com/512/284/284489.png" width="13"/><b> New York City</b> and over 4 years of experience working in full-stack development. I'm currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Barcelona, Spain</b>. </p>
 
 </br>
 
